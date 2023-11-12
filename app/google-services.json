@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "628087238369",
+    "firebase_url": "https://basedatenecon-default-rtdb.firebaseio.com",
+    "project_id": "basedatenecon",
+    "storage_bucket": "basedatenecon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628087238369:android:1dc4da871b512196d491a0",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4ZUxzqM_80JmuXS-qOa32YD5vIiJmSlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628087238369:android:7abd0a46ba9fa611d491a0",
+        "android_client_info": {
+          "package_name": "com.example.firebase2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4ZUxzqM_80JmuXS-qOa32YD5vIiJmSlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
